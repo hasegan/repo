@@ -1,0 +1,36 @@
+.weather-details{
+    box-shadow: 1px 1px 6px  rgb(11, 100, 216);
+    padding: 10px;
+  margin: 10px 0;
+  background:hsla(0, 0%, 100%, 0.471);
+max-height:140px;
+
+
+}
+.text-center{
+    font-family: "Roboto", Arial, sans-serif;
+    
+}
+
+
+
+
+#header{
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.alert{
+  margin-top:20px;
+}
+
+.fa-trash-o{
+  font-size:36px;
+  color:red;
+  
+}
+
+.fa-trash-o:hover{
+  color:black;
+  cursor:pointer;
+}
